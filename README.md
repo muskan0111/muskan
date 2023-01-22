@@ -1,4 +1,4 @@
-### Hello World, I'm Muskan👋
+### Hello World, I'm Soni  👋
 
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
@@ -9,7 +9,7 @@
 - 👯 I’m interested in spending time in coding.
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I speak 4 languages ( English,Hindi,urdu)
+- ⚡ Fun fact: I speak 4 languages ( English,Hindi,Haryanvi,French)
 
 
 ### Talk with me, I am kinda awesome:
@@ -42,18 +42,19 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Muskan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Muskansayyed&show_icons=true&hide_border=true" />
+  <img align="left" alt="Soni's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=soniprajapati&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskansayyed" />
+<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soniprajapati" />
 
 </details>
 
 [website]: https://holistic-developer.com/
 [youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
-[instagram]: https://www.instagram.com/iammuskansayyed/
-[linkedin]: https://www.linkedin.com/in/muskan-sayyed-b88a59240/
+[instagram]: https://www.instagram.com/soni_prajapati15/
+[linkedin]: https://www.linkedin.com/in/soni-prajapati-a69771234/
+
