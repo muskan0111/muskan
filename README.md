@@ -5,11 +5,11 @@
 
 ## I'm a Developer and Mentor!!
 - 🔭 I’m a self learner.
-- 🌱 I’m currently learning node and mogodb
+- 🌱 I’m currently learning Python and HTML
 - 👯 I’m interested in spending time in coding.
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I speak 4 languages ( English,Hindi,Haryanvi,French)
+- ⚡ Fun fact: I speak 4 languages ( English,Hindi,Urdu)
 
 
 ### Talk with me, I am kinda awesome:
