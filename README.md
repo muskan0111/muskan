@@ -42,7 +42,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Soni's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=soniprajapati&show_icons=true&hide_border=true" />
+  <img align="left" alt="Muskan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=soniprajapati&show_icons=true&hide_border=true" />
 
 </details>
 
@@ -53,8 +53,6 @@
 
 </details>
 
-[website]: https://holistic-developer.com/
-[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
-[instagram]: https://www.instagram.com/soni_prajapati15/
-[linkedin]: https://www.linkedin.com/in/soni-prajapati-a69771234/
+
+[linkedin]: https://www.linkedin.com/in/muskan-sayyed-b88a59240/
 
