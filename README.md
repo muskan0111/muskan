@@ -9,7 +9,7 @@
 - 👯 I’m interested in spending time in coding.
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I speak 4 languages ( English,Hindi,Urdu)
+- ⚡ Fun fact: I speak 3 languages ( English,Hindi,Urdu)
 
 
 ### Talk with me, I am kinda awesome:
